@@ -1,0 +1,29 @@
+.Ball{
+    width: 3em;
+    height: 2.25em;
+    border-radius: 50%;
+    background-color: tomato;
+    color:aliceblue;
+    align-items: center;
+    display: inline-block;
+    text-align:center;
+    margin: 1.5em;
+    padding-top: 0.75em;
+   
+    
+}
+section{
+    border: 1px gray solid;
+    border-radius: 5px;
+    color: blue;
+    margin: 2em;
+}
+
+button{
+    background-color: blue;
+    border: none;
+    color: aliceblue;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 3px;
+}
